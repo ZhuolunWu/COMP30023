@@ -1,2 +1,0 @@
-# COMP30023
-COMP30023 respository
